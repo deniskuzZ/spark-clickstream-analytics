@@ -6,7 +6,7 @@ import clickstream.domain.EventRecord
 import com.typesafe.scalalogging.LazyLogging
 import config.Settings
 import org.apache.kafka.clients.producer.ProducerConfig._
-import org.apache.kafka.clients.producer.{KafkaProducer, Producer, ProducerConfig, ProducerRecord}
+import org.apache.kafka.clients.producer.{KafkaProducer, Producer, ProducerRecord}
 
 import scala.util.Random
 

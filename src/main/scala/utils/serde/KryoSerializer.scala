@@ -2,7 +2,6 @@ package utils.serde
 
 import java.util
 
-import clickstream.domain.EventRecord
 import org.apache.kafka.common.serialization.Serializer
 import utils.KryoUtils
 
